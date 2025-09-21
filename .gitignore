@@ -1,0 +1,38 @@
+# Windows Forms .NET ignore rules
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
+*.ncb
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+.vs/
+*.csproj.user
+*.sln.docstates
+*.csproj.FileListAbsolute.txt
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+packages/
+*.nupkg
+NuGet.exe
+
+# Runtime files
+apphost.exe
+*.runtimeconfig.json
+
+# Misc
+*.log
+*.DS_Store
+Thumbs.db
