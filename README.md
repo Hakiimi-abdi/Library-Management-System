@@ -25,7 +25,7 @@ A Windows Forms Application in C# that allows you to manage books, members, borr
 ## Notes
 - Default login: create it using the database
 - Ensure SQL Server is running
-- You must manually set up the database using the included .sql file (if provided)
+- You must manually set up the database using the included .sql file
 
 
 Developed by Abdihakiim Abdi Abdullahi
