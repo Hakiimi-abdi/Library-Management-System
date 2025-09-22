@@ -95,9 +95,9 @@
             checkBox1.BackColor = Color.White;
             checkBox1.Location = new Point(255, 256);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(163, 29);
+            checkBox1.Size = new Size(165, 29);
             checkBox1.TabIndex = 4;
-            checkBox1.Text = "Check Passwore";
+            checkBox1.Text = "Check Password";
             checkBox1.UseVisualStyleBackColor = false;
             checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
